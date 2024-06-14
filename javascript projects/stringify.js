@@ -1,0 +1,1 @@
+console.log(JSON.stringify({first: 'Jane', last: 'Doe'}, null, 2));
